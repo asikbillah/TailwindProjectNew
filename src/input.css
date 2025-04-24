@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme{
+
+    --font-body: "Inter", sans-serif;
+    --font-heading: "Poppins", sans-serif;
+
+    --color-blue: "#0870fc"
+
+}
+
+@layer base{
+
+}
+
+@layer components{
+
+}
+
+@layer utilities{
+
+}
